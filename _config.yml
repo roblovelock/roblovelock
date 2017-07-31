@@ -62,3 +62,5 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
+
+theme: jekyll-theme-midnight
